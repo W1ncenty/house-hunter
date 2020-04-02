@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Drawing.Set_Color
+/// @DnDVersion : 1
+/// @DnDHash : 25E69104
+draw_set_colour($FFFFFFFF & $ffffff);
+var l25E69104_0=($FFFFFFFF >> 24);
+draw_set_alpha(l25E69104_0 / $ff);
+
 /// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
 /// @DnDVersion : 1
 /// @DnDHash : 2A6464D6
