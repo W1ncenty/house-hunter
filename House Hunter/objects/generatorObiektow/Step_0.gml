@@ -21,7 +21,9 @@ var _generator = floor(random_range(0, 100 + 1));
 /// @DnDVersion : 1
 /// @DnDHash : 47750124
 /// @DnDArgument : "var" "_generator"
-if(_generator == 0)
+/// @DnDArgument : "op" "3"
+/// @DnDArgument : "value" "1"
+if(_generator <= 1)
 {
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
