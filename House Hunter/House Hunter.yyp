@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "127942f5-f233-4413-aac8-9c241bb04fe3",
+            "Value": {
+                "id": "7d9cc018-97de-4cfe-b0b2-7c2320b932d6",
+                "resourcePath": "objects\\wynikCegly\\wynikCegly.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "12ab8509-e718-4457-940c-112c643dcf45",
             "Value": {
                 "id": "f5eb9909-4c57-4899-91cd-01ac8758d652",
