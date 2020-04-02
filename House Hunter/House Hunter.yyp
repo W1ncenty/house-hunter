@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "145c2034-940e-42b6-bf9e-e81c3dd2aaab",
+            "Value": {
+                "id": "bcf8f3cb-c0b7-45e1-8373-6d2c6169e8f4",
+                "resourcePath": "objects\\ziemia\\ziemia.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "17e3c58b-2cfc-4336-a1a9-55ccff039cfc",
             "Value": {
                 "id": "e3c464e2-4cbd-4aff-9fa0-dfe38f31fb36",
@@ -111,6 +119,14 @@
             }
         },
         {
+            "Key": "4b69851f-3c00-4ee1-a799-073d7877d62b",
+            "Value": {
+                "id": "4598dbe4-cf3d-410f-bf0b-b90df5eb89e0",
+                "resourcePath": "objects\\cegla\\cegla.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "50a74520-71db-4529-b1df-83c6ad9b3448",
             "Value": {
                 "id": "edaf1420-7a1a-418d-9f84-9a9822bfd4f6",
@@ -156,6 +172,14 @@
                 "id": "84d5a497-4703-448c-8b71-56b10c2a2568",
                 "resourcePath": "views\\9aeb54a0-7dfe-4595-b8ae-104abf378d22.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a06523b1-218a-49d1-8a02-7fb6ef462833",
+            "Value": {
+                "id": "0bc79296-17e2-4947-916e-47ba59ea1d17",
+                "resourcePath": "sprites\\testSprite4\\testSprite4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
