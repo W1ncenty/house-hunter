@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "3ebaeeb1-67e7-423c-90be-2a57b053dce6",
+            "Value": {
+                "id": "c3e7f746-8a81-487c-97b9-17ceb0281303",
+                "resourcePath": "views\\3ebaeeb1-67e7-423c-90be-2a57b053dce6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "45a17d90-f7b3-49a4-8f74-140ab1cad869",
             "Value": {
                 "id": "84db8683-5274-454d-b511-8dfef265d57e",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "6467862f-a695-4327-8805-8cdd2bfbc110",
+            "Value": {
+                "id": "41f93d61-1d8f-42db-a856-87e1f81bd04b",
+                "resourcePath": "objects\\wynikDeski\\wynikDeski.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "694a94c3-6a96-4e8e-9be7-f7bbd720c176",
             "Value": {
                 "id": "9bb58201-3aea-458a-9120-e3169b7d439b",
@@ -228,6 +244,22 @@
                 "id": "a4a689a0-b6a1-4256-8419-048f7b34e953",
                 "resourcePath": "views\\70ab4aba-d2c1-4fd8-82eb-bf39c450fa76.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7c01cb77-b96b-492f-b607-4b234eaab40c",
+            "Value": {
+                "id": "9c865515-1a0c-40da-9ac3-43f7e9d39df2",
+                "resourcePath": "views\\7c01cb77-b96b-492f-b607-4b234eaab40c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8225f4df-8136-4544-9405-0c7401aab415",
+            "Value": {
+                "id": "5e6cdd17-3294-4bdc-b150-df2745a7cc88",
+                "resourcePath": "objects\\bomba\\bomba.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -311,6 +343,14 @@
             }
         },
         {
+            "Key": "b0d9fdc5-f871-4427-8204-1a6d754cf063",
+            "Value": {
+                "id": "e3c4d029-bb6e-407f-a618-d222c10e875a",
+                "resourcePath": "objects\\wynikBomby\\wynikBomby.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b6c1738a-3b2d-4883-b8e0-50c51c1e00bb",
             "Value": {
                 "id": "9e7d54ab-644c-47cc-8af2-e0ec98076885",
@@ -343,6 +383,14 @@
             }
         },
         {
+            "Key": "be72a409-8c78-4163-ab89-6f4550f68921",
+            "Value": {
+                "id": "dd4b2d5d-5c5c-4520-9e17-27f6f0feb5e6",
+                "resourcePath": "objects\\okno\\okno.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c394544d-195d-4a5d-8a95-418a195423e5",
             "Value": {
                 "id": "53c1e69b-d245-428f-86b9-3f36c886a6bb",
@@ -355,6 +403,14 @@
             "Value": {
                 "id": "618f0c11-4bcc-4c7a-b20a-337af0cda44a",
                 "resourcePath": "objects\\trawa_obj\\trawa_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c69dc3c0-0464-4627-bd6b-7a3c9db4fa11",
+            "Value": {
+                "id": "3ccac385-75c3-4f4f-85b9-0e6d7dc02f1f",
+                "resourcePath": "objects\\wynikOkna\\wynikOkna.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -379,6 +435,14 @@
             "Value": {
                 "id": "45d7e423-e283-479f-99ff-214c338f5fdb",
                 "resourcePath": "objects\\drzewa\\drzewa.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e8487a8d-5a07-4a2a-b5df-9aa6596a08c6",
+            "Value": {
+                "id": "5f95859f-81f1-410c-bcbe-88b0963e6dc7",
+                "resourcePath": "objects\\deska\\deska.yy",
                 "resourceType": "GMObject"
             }
         },
