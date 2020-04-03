@@ -12,8 +12,8 @@ var _isObject = floor(random_range(0, 1000 + 1));
 /// @DnDHash : 0D197468
 /// @DnDArgument : "var" "_isObject"
 /// @DnDArgument : "op" "1"
-/// @DnDArgument : "value" "50"
-if(_isObject < 50)
+/// @DnDArgument : "value" "30"
+if(_isObject < 30)
 {
 	/// @DnDAction : YoYo Games.Random.Get_Random_Number
 	/// @DnDVersion : 1
