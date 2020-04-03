@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "00e4e1b9-9e88-478a-9ea7-1f431379ce99",
+            "Value": {
+                "id": "c300d2ee-aea4-4f58-840c-30a0c31212bd",
+                "resourcePath": "objects\\daszek\\daszek.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "03a66522-cf42-464f-91f9-7cb689f37bfa",
             "Value": {
                 "id": "b9bd1ac0-0c9a-4484-b564-bbabc20014fa",
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "1fbe92b3-5997-4473-915b-5ad8a919b39e",
+            "Value": {
+                "id": "6c5e5dce-b26d-44ad-b631-004f67682bcb",
+                "resourcePath": "sprites\\balkon_1\\balkon_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "201d630c-a98f-445a-a366-59f4618292ac",
             "Value": {
                 "id": "127e5d48-2afd-4ee3-8679-442cf3c17c98",
@@ -131,6 +147,14 @@
             "Value": {
                 "id": "25c6de53-e129-4f1c-9992-672e7d29c13b",
                 "resourcePath": "sprites\\drzewka\\drzewka.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2f0a309d-74f9-405b-a527-3b806eef1f1e",
+            "Value": {
+                "id": "3716cd20-69d2-4bd8-8ff3-3449a2d3d030",
+                "resourcePath": "sprites\\daszek_1\\daszek_1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -239,6 +263,14 @@
             }
         },
         {
+            "Key": "567afb82-fd86-4ca9-b38a-9db37bc65158",
+            "Value": {
+                "id": "ee5060eb-09b2-42ee-a336-d3b7f065ae24",
+                "resourcePath": "sprites\\okno_pietro_1\\okno_pietro_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5a4b24ee-0cad-4806-bd4e-1f7a45267e85",
             "Value": {
                 "id": "39d9540b-e526-4198-b261-4262049c536a",
@@ -300,6 +332,14 @@
                 "id": "a4a689a0-b6a1-4256-8419-048f7b34e953",
                 "resourcePath": "views\\70ab4aba-d2c1-4fd8-82eb-bf39c450fa76.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7121165e-c1e9-408d-a19a-db2f7b13fa66",
+            "Value": {
+                "id": "c8fbfdd8-a0e0-4c57-9853-05c52d0e4b2e",
+                "resourcePath": "sprites\\okno_pietro_2\\okno_pietro_2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -431,6 +471,14 @@
             }
         },
         {
+            "Key": "acd883a7-4f52-4ca2-acbe-b8cdce48f724",
+            "Value": {
+                "id": "2c7ef5fd-82fb-46fb-acde-1844be28cd14",
+                "resourcePath": "objects\\okno_bok\\okno_bok.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "adc0f356-b079-4f34-9e0a-bd63fd42bba8",
             "Value": {
                 "id": "bdf3ea46-f43f-4098-9ea6-b502fae28902",
@@ -452,6 +500,14 @@
                 "id": "16a3b240-6068-4653-bc39-5851f50ea6e5",
                 "resourcePath": "datafiles_yy\\lets eat.ttf.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "bb7d873c-300c-4f99-84df-1300ef486811",
+            "Value": {
+                "id": "bd8c1004-519b-4610-bdee-203e306793fa",
+                "resourcePath": "sprites\\oienko_basic\\oienko_basic.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -511,11 +567,27 @@
             }
         },
         {
+            "Key": "d1a090c9-bd65-4cc4-a984-fae201b56655",
+            "Value": {
+                "id": "425c7edf-c3a0-47b6-b4a2-6306d3987a9e",
+                "resourcePath": "rooms\\gameOver\\gameOver.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d3372aba-7fbb-41dc-8afb-a62b7a6afacb",
             "Value": {
                 "id": "a84c8e5b-db53-47b0-be21-d5f6903b88e4",
                 "resourcePath": "sprites\\sprite7\\sprite7.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d51af8dd-c935-44a2-8c31-947d00ba0b79",
+            "Value": {
+                "id": "ccf2519b-6de5-4b07-9f4a-42b8bacf1fd6",
+                "resourcePath": "objects\\balkon\\balkon.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -531,6 +603,14 @@
             "Value": {
                 "id": "5f95859f-81f1-410c-bcbe-88b0963e6dc7",
                 "resourcePath": "objects\\deska\\deska.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ec73d0c1-2dde-4e9b-9c56-80968eafdbc6",
+            "Value": {
+                "id": "d4f6b6bb-2433-4c98-bd86-56d2f72e306e",
+                "resourcePath": "objects\\okno_gora\\okno_gora.yy",
                 "resourceType": "GMObject"
             }
         },

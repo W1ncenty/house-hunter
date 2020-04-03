@@ -32,20 +32,11 @@ if(global.totalBricks >= global.targetBricks && global.totalPlanks >= global.tar
 /// @DnDArgument : "op" "3"
 if(global.playerHP <= 0)
 {
-	/// @DnDAction : YoYo Games.Drawing.Set_Color
+	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
-	/// @DnDHash : 5D07C19D
+	/// @DnDHash : 06DA2D2A
 	/// @DnDParent : 1DFDA258
-	draw_set_colour($FFFFFFFF & $ffffff);
-	var l5D07C19D_0=($FFFFFFFF >> 24);
-	draw_set_alpha(l5D07C19D_0 / $ff);
-
-	/// @DnDAction : YoYo Games.Drawing.Draw_Value
-	/// @DnDVersion : 1
-	/// @DnDHash : 1636C715
-	/// @DnDParent : 1DFDA258
-	/// @DnDArgument : "x" "700"
-	/// @DnDArgument : "y" "30"
-	/// @DnDArgument : "caption" ""Przegranko""
-	draw_text(700, 30, string("Przegranko") + "");
+	/// @DnDArgument : "room" "gameOver"
+	/// @DnDSaveInfo : "room" "d1a090c9-bd65-4cc4-a984-fae201b56655"
+	room_goto(gameOver);
 }

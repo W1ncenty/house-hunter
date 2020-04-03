@@ -55,8 +55,9 @@ if(_isObject < 30)
 			/// @DnDParent : 1127E0CE
 			/// @DnDArgument : "xpos" "_newObjectPosX"
 			/// @DnDArgument : "objectid" "cegla"
+			/// @DnDArgument : "layer" ""trawa""
 			/// @DnDSaveInfo : "objectid" "4b69851f-3c00-4ee1-a799-073d7877d62b"
-			instance_create_layer(_newObjectPosX, 0, "Instances", cegla);
+			instance_create_layer(_newObjectPosX, 0, "trawa", cegla);
 			break;
 	
 		/// @DnDAction : YoYo Games.Switch.Case
@@ -71,8 +72,9 @@ if(_isObject < 30)
 			/// @DnDParent : 6D89B615
 			/// @DnDArgument : "xpos" "_newObjectPosX"
 			/// @DnDArgument : "objectid" "okno"
+			/// @DnDArgument : "layer" ""trawa""
 			/// @DnDSaveInfo : "objectid" "be72a409-8c78-4163-ab89-6f4550f68921"
-			instance_create_layer(_newObjectPosX, 0, "Instances", okno);
+			instance_create_layer(_newObjectPosX, 0, "trawa", okno);
 			break;
 	
 		/// @DnDAction : YoYo Games.Switch.Case
@@ -87,8 +89,9 @@ if(_isObject < 30)
 			/// @DnDParent : 49F21C63
 			/// @DnDArgument : "xpos" "_newObjectPosX"
 			/// @DnDArgument : "objectid" "deska"
+			/// @DnDArgument : "layer" ""trawa""
 			/// @DnDSaveInfo : "objectid" "e8487a8d-5a07-4a2a-b5df-9aa6596a08c6"
-			instance_create_layer(_newObjectPosX, 0, "Instances", deska);
+			instance_create_layer(_newObjectPosX, 0, "trawa", deska);
 			break;
 	
 		/// @DnDAction : YoYo Games.Switch.Case
@@ -103,8 +106,9 @@ if(_isObject < 30)
 			/// @DnDParent : 27A70766
 			/// @DnDArgument : "xpos" "_newObjectPosX"
 			/// @DnDArgument : "objectid" "bomba"
+			/// @DnDArgument : "layer" ""trawa""
 			/// @DnDSaveInfo : "objectid" "8225f4df-8136-4544-9405-0c7401aab415"
-			instance_create_layer(_newObjectPosX, 0, "Instances", bomba);
+			instance_create_layer(_newObjectPosX, 0, "trawa", bomba);
 			break;
 	}
 }

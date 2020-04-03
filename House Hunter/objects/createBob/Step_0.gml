@@ -30,8 +30,9 @@ if(l461A63FC_0)
 			/// @DnDParent : 740358BD
 			/// @DnDArgument : "ypos" "600"
 			/// @DnDArgument : "objectid" "Bob"
+			/// @DnDArgument : "layer" ""trawa""
 			/// @DnDSaveInfo : "objectid" "ceef40cf-a06e-4aa3-ba75-60f0f92030ee"
-			instance_create_layer(0, 600, "Instances", Bob);
+			instance_create_layer(0, 600, "trawa", Bob);
 		
 			/// @DnDAction : YoYo Games.Common.Set_Global
 			/// @DnDVersion : 1
