@@ -43,11 +43,11 @@
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Background",
-            "id": "f62e9afe-3382-449d-89a3-0ad120d0f436",
+            "name": "Backgrounds_1",
+            "id": "dfe64dbd-29f5-4d49-ad1a-55805386336c",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4294967295 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
@@ -91,7 +91,7 @@
     },
     "roomSettings":     {
         "id": "de82f47c-3498-4d4b-9fc3-60aec0e3704b",
-        "Height": 768,
+        "Height": 1000,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": false,
