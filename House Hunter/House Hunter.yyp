@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "101d7d20-0ae8-4a60-be43-cf2f6aec1906",
+            "Value": {
+                "id": "29728bb4-33e6-45d4-a27d-6db0a0b29eaa",
+                "resourcePath": "objects\\sredni_btn\\sredni_btn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "12ab8509-e718-4457-940c-112c643dcf45",
             "Value": {
                 "id": "f5eb9909-4c57-4899-91cd-01ac8758d652",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "4afd629b-cc06-4a67-b60d-34c0c09206e2",
+            "Value": {
+                "id": "01f90ed0-a660-4526-bab8-34990c10f97a",
+                "resourcePath": "sprites\\cegla_dom\\cegla_dom.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4b051b1e-f1a5-4443-aff3-30cfb39e869a",
             "Value": {
                 "id": "c9215fac-0dbb-420c-a735-c4ae2ef5d5d5",
@@ -188,6 +204,14 @@
                 "id": "edaf1420-7a1a-418d-9f84-9a9822bfd4f6",
                 "resourcePath": "views\\50a74520-71db-4529-b1df-83c6ad9b3448.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5b8433c8-02d4-4e96-9f6c-04d29a3e5f7b",
+            "Value": {
+                "id": "7deca43b-eab7-4f80-b3a9-778f1a48c841",
+                "resourcePath": "objects\\sciana\\sciana.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -263,10 +287,26 @@
             }
         },
         {
+            "Key": "8391998e-f954-4197-9b59-6718ff826ad9",
+            "Value": {
+                "id": "c6db7e6c-3810-44a7-89b0-d4a3612b15c4",
+                "resourcePath": "objects\\latwy_btn\\latwy_btn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "88b4d806-3502-480b-a23a-e697f920f104",
             "Value": {
                 "id": "668140c5-7263-4faa-a61e-a42179eca06b",
                 "resourcePath": "objects\\krzak_obj\\krzak_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8be70da2-545c-47fa-a163-d51a4b6c1e24",
+            "Value": {
+                "id": "16aef97f-c10d-410e-904e-3d5db9c43ee4",
+                "resourcePath": "objects\\trudny_btn1\\trudny_btn1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -460,6 +500,14 @@
                 "id": "4404e878-8529-469f-bec7-6640c6e6b060",
                 "resourcePath": "views\\f9754708-59ab-4ea2-91ef-e649fee2aa25.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fa7bd0b9-e9f9-415d-8037-9a83a5161e6c",
+            "Value": {
+                "id": "65adba4b-a7b3-49eb-a13c-696773511dfe",
+                "resourcePath": "rooms\\poziomy\\poziomy.yy",
+                "resourceType": "GMRoom"
             }
         }
     ],
