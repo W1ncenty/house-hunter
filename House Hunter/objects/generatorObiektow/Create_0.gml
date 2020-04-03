@@ -12,6 +12,6 @@ global.numOfActiveObjects = 0;
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 76D3F4EA
-/// @DnDArgument : "value" "2"
+/// @DnDArgument : "value" "3"
 /// @DnDArgument : "var" "objectSpeed"
-global.objectSpeed = 2;
+global.objectSpeed = 3;
