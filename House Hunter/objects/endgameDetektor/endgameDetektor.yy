@@ -5,13 +5,13 @@
     "name": "endgameDetektor",
     "eventList": [
         {
-            "id": "840e2cd9-6168-4952-be70-571dbc827138",
+            "id": "958d600c-de49-43de-a1e3-12fe1d946604",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 3,
+            "enumb": 64,
+            "eventtype": 8,
             "m_owner": "9f2ae88f-11dc-466a-ad3e-406641fd22ab"
         }
     ],
