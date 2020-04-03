@@ -23,8 +23,8 @@ global.targetWindows = 40;
 /// @DnDVersion : 1
 /// @DnDHash : 6416ED63
 /// @DnDArgument : "value" "1"
-/// @DnDArgument : "var" "targetBombs"
-global.targetBombs = 1;
+/// @DnDArgument : "var" "playerHP"
+global.playerHP = 1;
 
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1

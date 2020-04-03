@@ -80,35 +80,11 @@ var _tarWindows = string(global.targetWindows);
 /// @DnDArgument : "var" "_totWindows +  " z " + _tarWindows"
 draw_text(15, 115, string("Zebrane okna: ") + string(_totWindows +  " z " + _tarWindows));
 
-/// @DnDAction : YoYo Games.Drawing.Set_Color
-/// @DnDVersion : 1
-/// @DnDHash : 07EF80BB
-/// @DnDArgument : "color" "$FF0000FF"
-draw_set_colour($FF0000FF & $ffffff);
-var l07EF80BB_0=($FF0000FF >> 24);
-draw_set_alpha(l07EF80BB_0 / $ff);
-
-/// @DnDAction : YoYo Games.Types.Number_To_String
-/// @DnDVersion : 1
-/// @DnDHash : 63B982B1
-/// @DnDArgument : "var" "_totBombs"
-/// @DnDArgument : "var_temp" "1"
-/// @DnDArgument : "value" "global.totalBombs"
-var _totBombs = string(global.totalBombs);
-
-/// @DnDAction : YoYo Games.Types.Number_To_String
-/// @DnDVersion : 1
-/// @DnDHash : 7C78EAF0
-/// @DnDArgument : "var" "_tarBombs"
-/// @DnDArgument : "var_temp" "1"
-/// @DnDArgument : "value" "global.targetBombs"
-var _tarBombs = string(global.targetBombs);
-
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 79C0F6BF
 /// @DnDArgument : "x" "15"
 /// @DnDArgument : "y" "165"
-/// @DnDArgument : "caption" ""Zebrane bomby: ""
-/// @DnDArgument : "var" "_totBombs +  " z " + _tarBombs"
-draw_text(15, 165, string("Zebrane bomby: ") + string(_totBombs +  " z " + _tarBombs));
+/// @DnDArgument : "caption" ""HP: ""
+/// @DnDArgument : "var" "global.playerHP"
+draw_text(15, 165, string("HP: ") + string(global.playerHP));

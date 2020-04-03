@@ -5,6 +5,14 @@ instance_destroy();
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
+/// @DnDHash : 62E9E79C
+/// @DnDArgument : "value" "-1"
+/// @DnDArgument : "value_relative" "1"
+/// @DnDArgument : "var" "playerHP"
+global.playerHP += -1;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
 /// @DnDHash : 24265462
 /// @DnDArgument : "value" "-1"
 /// @DnDArgument : "value_relative" "1"

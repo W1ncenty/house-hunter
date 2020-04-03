@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "9f2ae88f-11dc-466a-ad3e-406641fd22ab",
+            "Value": {
+                "id": "6d21fda2-0885-4a7d-86f4-f6d1bc6e7320",
+                "resourcePath": "objects\\endgameDetektor\\endgameDetektor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a06523b1-218a-49d1-8a02-7fb6ef462833",
             "Value": {
                 "id": "0bc79296-17e2-4947-916e-47ba59ea1d17",
