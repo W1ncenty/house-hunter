@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "3f166882-dc19-43ce-a3c5-6a0d4e71c1a1",
+            "Value": {
+                "id": "5fe837fd-5f16-43f5-9b98-ac56326524f5",
+                "resourcePath": "objects\\debug_showSpeed\\debug_showSpeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "45a17d90-f7b3-49a4-8f74-140ab1cad869",
             "Value": {
                 "id": "84db8683-5274-454d-b511-8dfef265d57e",
