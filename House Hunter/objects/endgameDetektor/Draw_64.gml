@@ -21,8 +21,8 @@ if(global.totalBricks >= global.targetBricks && global.totalPlanks >= global.tar
 	/// @DnDParent : 5E74B556
 	/// @DnDArgument : "x" "700"
 	/// @DnDArgument : "y" "30"
-	/// @DnDArgument : "caption" "Przegranko"
-	draw_text(700, 30, string(Przegranko) + "");
+	/// @DnDArgument : "caption" ""Wygranko""
+	draw_text(700, 30, string("Wygranko") + "");
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
