@@ -10,8 +10,8 @@ instance_change(Bob, true);
 /// @DnDHash : 3DFEBDF8
 /// @DnDApplyTo : ceef40cf-a06e-4aa3-ba75-60f0f92030ee
 /// @DnDArgument : "steps" "120"
-/// @DnDArgument : "alarm" "2"
+/// @DnDArgument : "alarm" "1"
 with(Bob) {
-alarm_set(2, 120);
+alarm_set(1, 120);
 
 }

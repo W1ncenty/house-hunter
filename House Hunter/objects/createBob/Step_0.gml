@@ -1,9 +1,11 @@
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
 /// @DnDHash : 461A63FC
+/// @DnDInput : 2
 /// @DnDApplyTo : all
-/// @DnDArgument : "expr" "global.totalBricks%3==0"
-with(all) var l461A63FC_0 = global.totalBricks%3==0;
+/// @DnDArgument : "expr" "global.totalBricks>=global.partBricks*global.howMany"
+/// @DnDArgument : "expr_1" "global.totalWindows>=global.partWindows*global.howMany"
+with(all) var l461A63FC_0 = global.totalBricks>=global.partBricks*global.howMany && global.totalWindows>=global.partWindows*global.howMany;
 if(l461A63FC_0)
 {
 	/// @DnDAction : YoYo Games.Common.If_Variable
@@ -24,23 +26,24 @@ if(l461A63FC_0)
 		l740358BD_0 = instance_exists(Bob);
 		if(!l740358BD_0)
 		{
+			/// @DnDAction : YoYo Games.Common.Set_Global
+			/// @DnDVersion : 1
+			/// @DnDHash : 2A501CF6
+			/// @DnDParent : 740358BD
+			/// @DnDArgument : "value" "1"
+			/// @DnDArgument : "value_relative" "1"
+			/// @DnDArgument : "var" "howMany"
+			global.howMany += 1;
+		
 			/// @DnDAction : YoYo Games.Instances.Create_Instance
 			/// @DnDVersion : 1
 			/// @DnDHash : 560852F8
 			/// @DnDParent : 740358BD
-			/// @DnDArgument : "ypos" "600"
+			/// @DnDArgument : "ypos" "650"
 			/// @DnDArgument : "objectid" "Bob"
 			/// @DnDArgument : "layer" ""trawa""
 			/// @DnDSaveInfo : "objectid" "ceef40cf-a06e-4aa3-ba75-60f0f92030ee"
-			instance_create_layer(0, 600, "trawa", Bob);
-		
-			/// @DnDAction : YoYo Games.Common.Set_Global
-			/// @DnDVersion : 1
-			/// @DnDHash : 4CC378CA
-			/// @DnDParent : 740358BD
-			/// @DnDArgument : "value" "1"
-			/// @DnDArgument : "var" "bobWasHere"
-			global.bobWasHere = 1;
+			instance_create_layer(0, 650, "trawa", Bob);
 		
 			/// @DnDAction : YoYo Games.Instances.Set_Alarm
 			/// @DnDVersion : 1
@@ -52,6 +55,14 @@ if(l461A63FC_0)
 			alarm_set(0, 120);
 			
 			}
+		
+			/// @DnDAction : YoYo Games.Common.Set_Global
+			/// @DnDVersion : 1
+			/// @DnDHash : 4CC378CA
+			/// @DnDParent : 740358BD
+			/// @DnDArgument : "value" "1"
+			/// @DnDArgument : "var" "bobWasHere"
+			global.bobWasHere = 1;
 		}
 	}
 }

@@ -5,17 +5,17 @@
 /// @DnDSaveInfo : "objind" "ceef40cf-a06e-4aa3-ba75-60f0f92030ee"
 instance_change(Bob, true);
 
+/// @DnDAction : YoYo Games.Movement.Set_Direction_Point
+/// @DnDVersion : 1
+/// @DnDHash : 76FFFC01
+/// @DnDArgument : "y" "600"
+direction = point_direction(x, y, 0, 600);
+
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
 /// @DnDVersion : 1.1
 /// @DnDHash : 4F09D9C3
 /// @DnDArgument : "direction" "180"
 direction = 180;
-
-/// @DnDAction : YoYo Games.Movement.Set_Direction_Point
-/// @DnDVersion : 1
-/// @DnDHash : 76FFFC01
-/// @DnDArgument : "y" "700"
-direction = point_direction(x, y, 0, 700);
 
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1

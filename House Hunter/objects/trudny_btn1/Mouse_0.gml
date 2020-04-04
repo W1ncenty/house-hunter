@@ -1,30 +1,51 @@
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 721B21D1
-/// @DnDArgument : "value" "40"
+/// @DnDArgument : "value" "60"
 /// @DnDArgument : "var" "targetBricks"
-global.targetBricks = 40;
+global.targetBricks = 60;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 2D692FB1
+/// @DnDArgument : "value" "10"
+/// @DnDArgument : "var" "partBricks"
+global.partBricks = 10;
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 46494811
-/// @DnDArgument : "value" "40"
+/// @DnDArgument : "value" "36"
 /// @DnDArgument : "var" "targetPlanks"
-global.targetPlanks = 40;
+global.targetPlanks = 36;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 46457BEA
+/// @DnDArgument : "value" "6"
+/// @DnDArgument : "var" "partPlanks"
+global.partPlanks = 6;
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 7B16E14F
-/// @DnDArgument : "value" "40"
+/// @DnDArgument : "value" "30"
 /// @DnDArgument : "var" "targetWindows"
-global.targetWindows = 40;
+global.targetWindows = 30;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 35D98595
+/// @DnDArgument : "value" "5"
+/// @DnDArgument : "var" "partWindows"
+global.partWindows = 5;
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 6416ED63
-/// @DnDArgument : "value" "1"
+/// @DnDArgument : "value" "25"
 /// @DnDArgument : "var" "playerHP"
-global.playerHP = 1;
+global.playerHP = 25;
 
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
