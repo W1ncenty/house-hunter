@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "00e4e1b9-9e88-478a-9ea7-1f431379ce99",
-            "Value": {
-                "id": "c300d2ee-aea4-4f58-840c-30a0c31212bd",
-                "resourcePath": "objects\\daszek\\daszek.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "03a66522-cf42-464f-91f9-7cb689f37bfa",
             "Value": {
                 "id": "b9bd1ac0-0c9a-4484-b564-bbabc20014fa",
@@ -1327,14 +1319,6 @@
             }
         },
         {
-            "Key": "acd883a7-4f52-4ca2-acbe-b8cdce48f724",
-            "Value": {
-                "id": "2c7ef5fd-82fb-46fb-acde-1844be28cd14",
-                "resourcePath": "objects\\okno_bok\\okno_bok.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "adc0f356-b079-4f34-9e0a-bd63fd42bba8",
             "Value": {
                 "id": "bdf3ea46-f43f-4098-9ea6-b502fae28902",
@@ -1623,14 +1607,6 @@
             }
         },
         {
-            "Key": "d51af8dd-c935-44a2-8c31-947d00ba0b79",
-            "Value": {
-                "id": "ccf2519b-6de5-4b07-9f4a-42b8bacf1fd6",
-                "resourcePath": "objects\\balkon\\balkon.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "d529efbc-e1e9-4c83-a5da-32f7bb1b3fdd",
             "Value": {
                 "id": "37851fac-a03e-4a85-9174-50c7550c425c",
@@ -1771,14 +1747,6 @@
             "Value": {
                 "id": "ec35483b-312b-4e91-9fb7-d629f01ba76f",
                 "resourcePath": "objects\\dom_08_04\\dom_08_04.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "ec73d0c1-2dde-4e9b-9c56-80968eafdbc6",
-            "Value": {
-                "id": "d4f6b6bb-2433-4c98-bd86-56d2f72e306e",
-                "resourcePath": "objects\\okno_gora\\okno_gora.yy",
                 "resourceType": "GMObject"
             }
         },

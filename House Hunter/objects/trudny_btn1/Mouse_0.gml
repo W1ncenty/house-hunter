@@ -1,5 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
+/// @DnDHash : 6580F622
+/// @DnDArgument : "value" "2"
+/// @DnDArgument : "var" "level"
+global.level = 2;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
 /// @DnDHash : 721B21D1
 /// @DnDArgument : "value" "60"
 /// @DnDArgument : "var" "targetBricks"
