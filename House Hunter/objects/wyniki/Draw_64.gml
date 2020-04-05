@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Drawing.Set_Font
+/// @DnDVersion : 1
+/// @DnDHash : 205C6EAB
+/// @DnDArgument : "font" "lets"
+/// @DnDSaveInfo : "font" "29c41bb7-4042-4a0e-a740-cd1fec5867b4"
+draw_set_font(lets);
+
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
 /// @DnDHash : 19EF1CE9

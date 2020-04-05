@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "29c41bb7-4042-4a0e-a740-cd1fec5867b4",
+            "Value": {
+                "id": "bf84e96e-b5ce-41eb-9485-f31162c434b2",
+                "resourcePath": "fonts\\lets\\lets.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "29e5cd87-84cb-49f7-9ad1-023522ee0cfc",
             "Value": {
                 "id": "25c6de53-e129-4f1c-9992-672e7d29c13b",
