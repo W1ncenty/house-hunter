@@ -61,10 +61,10 @@ if(global.totalBricks >= global.targetBricks && global.totalPlanks >= global.tar
 			/// @DnDHash : 210C3CE4
 			/// @DnDApplyTo : ceef40cf-a06e-4aa3-ba75-60f0f92030ee
 			/// @DnDParent : 3600EEEF
-			/// @DnDArgument : "steps" "120"
+			/// @DnDArgument : "steps" "300"
 			/// @DnDArgument : "alarm" "3"
 			with(Bob) {
-			alarm_set(3, 120);
+			alarm_set(3, 300);
 			
 			}
 		
@@ -90,8 +90,7 @@ if(global.totalBricks >= global.targetBricks && global.totalPlanks >= global.tar
 /// @DnDHash : 1DFDA258
 /// @DnDArgument : "var" "global.playerHP"
 /// @DnDArgument : "op" "3"
-/// @DnDArgument : "value" "-100000000"
-if(global.playerHP <= -100000000)
+if(global.playerHP <= 0)
 {
 	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
