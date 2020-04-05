@@ -27,8 +27,8 @@ var _tarBricks = string(global.targetBricks);
 /// @DnDArgument : "x" "15"
 /// @DnDArgument : "y" "15"
 /// @DnDArgument : "caption" ""Zebrane cegly: ""
-/// @DnDArgument : "var" "_totBricks +  " z " + _tarBricks"
-draw_text(15, 15, string("Zebrane cegly: ") + string(_totBricks +  " z " + _tarBricks));
+/// @DnDArgument : "var" "_totBricks +  " / " + _tarBricks"
+draw_text(15, 15, string("Zebrane cegly: ") + string(_totBricks +  " / " + _tarBricks));
 
 /// @DnDAction : YoYo Games.Types.Number_To_String
 /// @DnDVersion : 1
@@ -52,8 +52,8 @@ var _tarPlanks = string(global.targetPlanks);
 /// @DnDArgument : "x" "15"
 /// @DnDArgument : "y" "65"
 /// @DnDArgument : "caption" ""Zebrane deski: ""
-/// @DnDArgument : "var" "_totPlanks +  " z " + _tarPlanks"
-draw_text(15, 65, string("Zebrane deski: ") + string(_totPlanks +  " z " + _tarPlanks));
+/// @DnDArgument : "var" "_totPlanks +  " / " + _tarPlanks"
+draw_text(15, 65, string("Zebrane deski: ") + string(_totPlanks +  " / " + _tarPlanks));
 
 /// @DnDAction : YoYo Games.Types.Number_To_String
 /// @DnDVersion : 1
@@ -77,8 +77,8 @@ var _tarWindows = string(global.targetWindows);
 /// @DnDArgument : "x" "15"
 /// @DnDArgument : "y" "115"
 /// @DnDArgument : "caption" ""Zebrane okna: ""
-/// @DnDArgument : "var" "_totWindows +  " z " + _tarWindows"
-draw_text(15, 115, string("Zebrane okna: ") + string(_totWindows +  " z " + _tarWindows));
+/// @DnDArgument : "var" "_totWindows +  " / " + _tarWindows"
+draw_text(15, 115, string("Zebrane okna: ") + string(_totWindows +  " / " + _tarWindows));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1

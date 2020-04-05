@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0be80254-fa46-4203-803a-62c7a7055878",
+            "Value": {
+                "id": "46c8aa3c-cadb-47a1-9851-7668c5530396",
+                "resourcePath": "objects\\object28\\object28.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0bfbe62d-a02f-41b2-9be9-495034133667",
             "Value": {
                 "id": "e063b655-9475-4762-b304-cf8db3e5f9b6",
@@ -1692,6 +1700,14 @@
                 "id": "b6519f1e-cfd0-48bb-bc8c-03b736878958",
                 "resourcePath": "views\\d9095df4-ed36-46fe-83e4-e532546881f2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d948cf5b-d0d7-438b-80ba-da60ba446e0b",
+            "Value": {
+                "id": "a88eb6fd-d7c6-40c9-bcf9-bc54f4fb7c05",
+                "resourcePath": "sprites\\happyBob\\happyBob.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
