@@ -30,7 +30,8 @@ if(global.totalBricks >= global.targetBricks && global.totalPlanks >= global.tar
 /// @DnDHash : 1DFDA258
 /// @DnDArgument : "var" "global.playerHP"
 /// @DnDArgument : "op" "3"
-if(global.playerHP <= 0)
+/// @DnDArgument : "value" "-100000000"
+if(global.playerHP <= -100000000)
 {
 	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
