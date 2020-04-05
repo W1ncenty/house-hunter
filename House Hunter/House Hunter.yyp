@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "3f9d1f03-6d40-4bb3-99ca-a469a50b0eb2",
+            "Value": {
+                "id": "a39bd2b3-1d4e-43b0-8eef-014177fa8d0c",
+                "resourcePath": "sounds\\_08_lose\\_08_lose.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4145e86b-f662-4362-b06e-43bb6696b4d8",
             "Value": {
                 "id": "8f9431f7-0783-491f-a902-c7cbcd598274",
@@ -1535,6 +1543,14 @@
             }
         },
         {
+            "Key": "c98c42d7-3b72-4f7b-bf5f-f04934a3bef4",
+            "Value": {
+                "id": "abe68dd3-7afb-4930-bdb8-49475dd63bd8",
+                "resourcePath": "objects\\try_again\\try_again.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c9e8be4a-804f-4459-ab94-6d3c9731e4e6",
             "Value": {
                 "id": "35ccc142-2826-497c-858e-785b302d77f2",
@@ -1579,6 +1595,14 @@
             "Value": {
                 "id": "1e873a73-de0e-4eb0-8a67-89ce42118562",
                 "resourcePath": "sprites\\house___kopia_05_04\\house___kopia_05_04.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cd9bc4c8-572b-4557-a999-4f6a7b58fd3e",
+            "Value": {
+                "id": "1af8f44f-1f96-4b57-9bde-0b7b9a6b8a81",
+                "resourcePath": "sprites\\dog\\dog.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1639,6 +1663,14 @@
             }
         },
         {
+            "Key": "d5fc1d82-dee8-4762-8567-17bb31eaf9b2",
+            "Value": {
+                "id": "9cbf04f3-130a-4674-a71e-679e0a9c0dd1",
+                "resourcePath": "objects\\bad_dog\\bad_dog.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d6215fa8-b575-4314-aa8b-b5480207c12d",
             "Value": {
                 "id": "de9349cd-d0d9-45a0-8ca6-b9ba92ed371d",
@@ -1692,6 +1724,14 @@
                 "id": "5a0f234c-5e86-4aa6-86da-8cdf6a812a75",
                 "resourcePath": "objects\\dom_04_01\\dom_04_01.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e296c3e6-1b1c-4d02-9202-510205c41af6",
+            "Value": {
+                "id": "d4a0613f-a734-4bd0-bc42-2571b0754ed2",
+                "resourcePath": "sprites\\duck_fly\\duck_fly.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
