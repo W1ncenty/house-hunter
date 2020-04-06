@@ -1,11 +1,3 @@
-/// @DnDAction : YoYo Games.Common.Set_Global
-/// @DnDVersion : 1
-/// @DnDHash : 21C5B9AC
-/// @DnDArgument : "value" "1"
-/// @DnDArgument : "value_relative" "1"
-/// @DnDArgument : "var" "numOfActiveObjects"
-global.numOfActiveObjects += 1;
-
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1
 /// @DnDHash : 002E8153

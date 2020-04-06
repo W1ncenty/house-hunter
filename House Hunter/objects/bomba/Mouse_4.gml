@@ -10,11 +10,3 @@ instance_destroy();
 /// @DnDArgument : "value_relative" "1"
 /// @DnDArgument : "var" "playerHP"
 global.playerHP += -1;
-
-/// @DnDAction : YoYo Games.Common.Set_Global
-/// @DnDVersion : 1
-/// @DnDHash : 6337BB38
-/// @DnDArgument : "value" "-1"
-/// @DnDArgument : "value_relative" "1"
-/// @DnDArgument : "var" "numOfActiveObjects"
-global.numOfActiveObjects += -1;

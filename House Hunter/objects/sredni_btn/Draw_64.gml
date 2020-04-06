@@ -20,5 +20,5 @@ draw_set_alpha(l7725D999_0 / $ff);
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "20"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "caption" ""Middle ""
-draw_text(x + 50, y + 20, string("Middle ") + "");
+/// @DnDArgument : "caption" ""Medium ""
+draw_text(x + 50, y + 20, string("Medium ") + "");

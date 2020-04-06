@@ -50,9 +50,9 @@ global.partWindows = 3;
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 4A04B8A9
-/// @DnDArgument : "value" "20"
+/// @DnDArgument : "value" "3"
 /// @DnDArgument : "var" "playerHP"
-global.playerHP = 20;
+global.playerHP = 3;
 
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1

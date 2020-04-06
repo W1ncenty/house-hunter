@@ -1,10 +1,20 @@
-/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
-/// @DnDHash : 3E2CC4C6
-/// @DnDArgument : "value" "1"
-/// @DnDArgument : "value_relative" "1"
-/// @DnDArgument : "var" "totalBricks"
-global.totalBricks += 1;
+/// @DnDHash : 19EF94C5
+/// @DnDArgument : "var" "global.totalBricks"
+/// @DnDArgument : "op" "1"
+/// @DnDArgument : "value" "global.targetBricks"
+if(global.totalBricks < global.targetBricks)
+{
+	/// @DnDAction : YoYo Games.Common.Set_Global
+	/// @DnDVersion : 1
+	/// @DnDHash : 3E2CC4C6
+	/// @DnDParent : 19EF94C5
+	/// @DnDArgument : "value" "1"
+	/// @DnDArgument : "value_relative" "1"
+	/// @DnDArgument : "var" "totalBricks"
+	global.totalBricks += 1;
+}
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
