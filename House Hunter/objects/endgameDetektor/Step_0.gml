@@ -4,8 +4,8 @@
 /// @DnDInput : 3
 /// @DnDArgument : "expr" "global.totalBricks >= global.targetBricks"
 /// @DnDArgument : "expr_1" "global.totalPlanks >= global.targetPlanks"
-/// @DnDArgument : "expr_2" "global.totalPlanks >= global.targetPlanks"
-if(global.totalBricks >= global.targetBricks && global.totalPlanks >= global.targetPlanks && global.totalPlanks >= global.targetPlanks)
+/// @DnDArgument : "expr_2" "global.totalWindows >= global.targetWindows"
+if(global.totalBricks >= global.targetBricks && global.totalPlanks >= global.targetPlanks && global.totalWindows >= global.targetWindows)
 {
 	/// @DnDAction : YoYo Games.Common.Execute_Code
 	/// @DnDVersion : 1

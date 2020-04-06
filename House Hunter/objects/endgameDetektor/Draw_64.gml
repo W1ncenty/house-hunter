@@ -24,6 +24,41 @@ if(global.totalBricks >= global.targetBricks && global.totalPlanks >= global.tar
 	/// @DnDArgument : "caption" ""Wygranko""
 	draw_text(700, 30, string("Wygranko") + "");
 
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 04BFC554
+	/// @DnDApplyTo : adc0f356-b079-4f34-9e0a-bd63fd42bba8
+	/// @DnDParent : 5E74B556
+	with(generatorObiektow) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 5E59E499
+	/// @DnDApplyTo : 4b69851f-3c00-4ee1-a799-073d7877d62b
+	/// @DnDParent : 5E74B556
+	with(cegla) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 7DF18D0D
+	/// @DnDApplyTo : e8487a8d-5a07-4a2a-b5df-9aa6596a08c6
+	/// @DnDParent : 5E74B556
+	with(deska) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 41E552A6
+	/// @DnDApplyTo : be72a409-8c78-4163-ab89-6f4550f68921
+	/// @DnDParent : 5E74B556
+	with(okno) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 21B9C459
+	/// @DnDApplyTo : 8225f4df-8136-4544-9405-0c7401aab415
+	/// @DnDParent : 5E74B556
+	with(bomba) instance_destroy();
+
 	/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 	/// @DnDVersion : 1
 	/// @DnDHash : 107AE74A
@@ -70,7 +105,7 @@ if(global.totalBricks >= global.targetBricks && global.totalPlanks >= global.tar
 		
 			/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 			/// @DnDVersion : 1
-			/// @DnDHash : 04BFC554
+			/// @DnDHash : 6DC94CBC
 			/// @DnDApplyTo : adc0f356-b079-4f34-9e0a-bd63fd42bba8
 			/// @DnDParent : 3600EEEF
 			with(generatorObiektow) instance_destroy();
