@@ -68,6 +68,13 @@ if(global.totalBricks >= global.targetBricks && global.totalPlanks >= global.tar
 			
 			}
 		
+			/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+			/// @DnDVersion : 1
+			/// @DnDHash : 04BFC554
+			/// @DnDApplyTo : adc0f356-b079-4f34-9e0a-bd63fd42bba8
+			/// @DnDParent : 3600EEEF
+			with(generatorObiektow) instance_destroy();
+		
 			/// @DnDAction : YoYo Games.Movement.Set_Speed
 			/// @DnDVersion : 1
 			/// @DnDHash : 24D3CC32
@@ -76,13 +83,6 @@ if(global.totalBricks >= global.targetBricks && global.totalPlanks >= global.tar
 			speed = 0.2;
 		}
 	}
-
-	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-	/// @DnDVersion : 1
-	/// @DnDHash : 04BFC554
-	/// @DnDApplyTo : adc0f356-b079-4f34-9e0a-bd63fd42bba8
-	/// @DnDParent : 5E74B556
-	with(generatorObiektow) instance_destroy();
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
