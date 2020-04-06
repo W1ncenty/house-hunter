@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "drzewa",
     "eventList": [
-        
+        {
+            "id": "a91da480-85ed-47af-b456-c22f9d621d06",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "d8106c79-56b4-4ca9-96dd-804651792d00"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
