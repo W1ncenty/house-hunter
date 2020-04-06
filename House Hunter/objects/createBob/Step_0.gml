@@ -280,6 +280,18 @@ if(l461A63FC_0)
 				{
 					/// @DnDAction : YoYo Games.Instances.Set_Alarm
 					/// @DnDVersion : 1
+					/// @DnDHash : 22F159E3
+					/// @DnDApplyTo : 1a1defc8-2802-4e25-8e4c-270c529f8a16
+					/// @DnDParent : 1BDFA832
+					/// @DnDArgument : "steps" "120"
+					/// @DnDArgument : "alarm" "2"
+					with(createSmoke) {
+					alarm_set(2, 120);
+					
+					}
+				
+					/// @DnDAction : YoYo Games.Instances.Set_Alarm
+					/// @DnDVersion : 1
 					/// @DnDHash : 0256BE55
 					/// @DnDApplyTo : 1a1defc8-2802-4e25-8e4c-270c529f8a16
 					/// @DnDParent : 1BDFA832
@@ -292,7 +304,7 @@ if(l461A63FC_0)
 				
 					/// @DnDAction : YoYo Games.Instances.Set_Alarm
 					/// @DnDVersion : 1
-					/// @DnDHash : 22F159E3
+					/// @DnDHash : 2FD335C5
 					/// @DnDApplyTo : 1a1defc8-2802-4e25-8e4c-270c529f8a16
 					/// @DnDParent : 1BDFA832
 					/// @DnDArgument : "steps" "120"
